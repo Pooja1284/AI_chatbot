@@ -1,6 +1,6 @@
 # 🤖 AI Chatbot
 
-An interactive AI chatbot built using **Python** and **Streamlit**, developed in **PyCharm**. This project allows users to engage in natural language conversations with an AI model through a simple web interface.
+An interactive AI chatbot built using **Python**, **Gemini**, **Streamlit**, developed in **PyCharm**. This project allows users to engage in natural language conversations with an AI model through a simple web interface.
 
 ---
 
@@ -19,6 +19,7 @@ An interactive AI chatbot built using **Python** and **Streamlit**, developed in
 - **Python** - Core programming language
 - **Streamlit** - For building the web app interface
 - **PyCharm** - IDE used for development
+- **Google's Gemini (uses API)
 
 ---
 
