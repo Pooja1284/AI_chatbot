@@ -19,7 +19,7 @@ An interactive AI chatbot built using **Python**, **Gemini**, **Streamlit**, dev
 - **Python** - Core programming language
 - **Streamlit** - For building the web app interface
 - **PyCharm** - IDE used for development
-- **Google's Gemini (uses API)
+- **Google's Gemini** - (uses API)
 
 ---
 
