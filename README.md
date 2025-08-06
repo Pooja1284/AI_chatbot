@@ -24,14 +24,21 @@ An interactive AI chatbot built using **Python** and **Streamlit**, developed in
 
 ## 📁 Project Structure
 ai_chatbot/
-│
+
 ├── chatbot.py           # Main Streamlit app file
+
 ├── utils.py             # (Optional) Helper functions or API logic
+
 ├── requirements.txt     # List of Python dependencies
+
 ├── README.md            # Project documentation
+
 ├── assets/              # (Optional) Images, icons, or other static files
 │   └── logo.png         # Example asset
+
 ├── .gitignore           # Git ignored files
+
 └── .venv/               # (Optional) Virtual environment directory
+
 ├── config.py            # Stores API keys and configuration variables
 
